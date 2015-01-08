@@ -1,0 +1,20 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Mobility Radeon HD 4500/5100 Series (ID=0x9553)
+    Vendor:   ATI
+    VRAM:     505 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Facultate\VR\Lab4_FricaDeGaze\FricaDeGaze\FricaDeGaze_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Facultate\VR\Lab4_FricaDeGaze\FricaDeGaze\FricaDeGaze_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Facultate\VR\Lab4_FricaDeGaze\FricaDeGaze\FricaDeGaze_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\Facultate\VR\Lab4_FricaDeGaze\FricaDeGaze\FricaDeGaze_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Facultate\VR\Lab4_FricaDeGaze\FricaDeGaze\FricaDeGaze_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Facultate\VR\Lab4_FricaDeGaze\FricaDeGaze\FricaDeGaze_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.291 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\Facultate\VR\Lab4_FricaDeGaze\FricaDeGaze\FricaDeGaze_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Facultate\VR\Lab4_FricaDeGaze\FricaDeGaze\FricaDeGaze_Data\Managed\Boo.Lang.dll (this message is harmless)
