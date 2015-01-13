@@ -108,6 +108,7 @@ ModelImporter:
     4300000: trnt_body
     4300002: trnt_eyes
     7400000: Default Take
+    7400002: SpiderAction
     9500000: //RootNode
     13700000: trnt_body
   materials:
@@ -125,7 +126,251 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: Spider/Body
+        weight: 1
+      - path: Spider/Body/LLegBase1
+        weight: 1
+      - path: Spider/Body/LLegBase1/LLegUpper1
+        weight: 1
+      - path: Spider/Body/LLegBase1/LLegUpper1/LLegMiddle1
+        weight: 1
+      - path: Spider/Body/LLegBase1/LLegUpper1/LLegMiddle1/LLegLower1
+        weight: 1
+      - path: Spider/Body/RLegBase1
+        weight: 1
+      - path: Spider/Body/RLegBase1/RLegUpper1
+        weight: 1
+      - path: Spider/Body/RLegBase1/RLegUpper1/RLegMiddle1
+        weight: 1
+      - path: Spider/Body/RLegBase1/RLegUpper1/RLegMiddle1/RLegLower1
+        weight: 1
+      - path: Spider/Body/Spine1
+        weight: 1
+      - path: Spider/Body/Spine1/LLegBase2
+        weight: 1
+      - path: Spider/Body/Spine1/LLegBase2/LLegUpper2
+        weight: 1
+      - path: Spider/Body/Spine1/LLegBase2/LLegUpper2/LLegMiddle2
+        weight: 1
+      - path: Spider/Body/Spine1/LLegBase2/LLegUpper2/LLegMiddle2/LLegLower2
+        weight: 1
+      - path: Spider/Body/Spine1/RLegBase2
+        weight: 1
+      - path: Spider/Body/Spine1/RLegBase2/RLegUpper2
+        weight: 1
+      - path: Spider/Body/Spine1/RLegBase2/RLegUpper2/RLegMiddle2
+        weight: 1
+      - path: Spider/Body/Spine1/RLegBase2/RLegUpper2/RLegMiddle2/RLegLower2
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LAntennaBase
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LAntennaBase/LAntennaUpper
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LAntennaBase/LAntennaUpper/LAntennaMiddle
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LAntennaBase/LAntennaUpper/LAntennaMiddle/LAntennaLower
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LLegBase3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LLegBase3/LLegUpper3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LLegBase3/LLegUpper3/LLegMiddle3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LLegBase3/LLegUpper3/LLegMiddle3/LLegLower3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RAntennaBase
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RAntennaBase/RAntennaUpper
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RAntennaBase/RAntennaUpper/RAntennaMiddle
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RAntennaBase/RAntennaUpper/RAntennaMiddle/RAntennaLower
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RLegBase3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RLegBase3/RLegUpper3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RLegBase3/RLegUpper3/RLegMiddle3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RLegBase3/RLegUpper3/RLegMiddle3/RLegLower3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/LLegBase4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/LLegBase4/LLegUpper4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/LLegBase4/LLegUpper4/LLegMiddle4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/LLegBase4/LLegUpper4/LLegMiddle4/LLegLower4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/RLegBase4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/RLegBase4/RLegUpper4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/RLegBase4/RLegUpper4/RLegMiddle4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/RLegBase4/RLegUpper4/RLegMiddle4/RLegLower4
+        weight: 1
+      - path: trnt_body
+        weight: 1
+      - path: trnt_body/trnt_eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SpiderAction
+      takeName: SpiderAction
+      firstFrame: 0
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: Spider/Body
+        weight: 1
+      - path: Spider/Body/LLegBase1
+        weight: 1
+      - path: Spider/Body/LLegBase1/LLegUpper1
+        weight: 1
+      - path: Spider/Body/LLegBase1/LLegUpper1/LLegMiddle1
+        weight: 1
+      - path: Spider/Body/LLegBase1/LLegUpper1/LLegMiddle1/LLegLower1
+        weight: 1
+      - path: Spider/Body/RLegBase1
+        weight: 1
+      - path: Spider/Body/RLegBase1/RLegUpper1
+        weight: 1
+      - path: Spider/Body/RLegBase1/RLegUpper1/RLegMiddle1
+        weight: 1
+      - path: Spider/Body/RLegBase1/RLegUpper1/RLegMiddle1/RLegLower1
+        weight: 1
+      - path: Spider/Body/Spine1
+        weight: 1
+      - path: Spider/Body/Spine1/LLegBase2
+        weight: 1
+      - path: Spider/Body/Spine1/LLegBase2/LLegUpper2
+        weight: 1
+      - path: Spider/Body/Spine1/LLegBase2/LLegUpper2/LLegMiddle2
+        weight: 1
+      - path: Spider/Body/Spine1/LLegBase2/LLegUpper2/LLegMiddle2/LLegLower2
+        weight: 1
+      - path: Spider/Body/Spine1/RLegBase2
+        weight: 1
+      - path: Spider/Body/Spine1/RLegBase2/RLegUpper2
+        weight: 1
+      - path: Spider/Body/Spine1/RLegBase2/RLegUpper2/RLegMiddle2
+        weight: 1
+      - path: Spider/Body/Spine1/RLegBase2/RLegUpper2/RLegMiddle2/RLegLower2
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LAntennaBase
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LAntennaBase/LAntennaUpper
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LAntennaBase/LAntennaUpper/LAntennaMiddle
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LAntennaBase/LAntennaUpper/LAntennaMiddle/LAntennaLower
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LLegBase3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LLegBase3/LLegUpper3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LLegBase3/LLegUpper3/LLegMiddle3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/LLegBase3/LLegUpper3/LLegMiddle3/LLegLower3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RAntennaBase
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RAntennaBase/RAntennaUpper
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RAntennaBase/RAntennaUpper/RAntennaMiddle
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RAntennaBase/RAntennaUpper/RAntennaMiddle/RAntennaLower
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RLegBase3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RLegBase3/RLegUpper3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RLegBase3/RLegUpper3/RLegMiddle3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/RLegBase3/RLegUpper3/RLegMiddle3/RLegLower3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/LLegBase4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/LLegBase4/LLegUpper4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/LLegBase4/LLegUpper4/LLegMiddle4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/LLegBase4/LLegUpper4/LLegMiddle4/LLegLower4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/RLegBase4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/RLegBase4/RLegUpper4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/RLegBase4/RLegUpper4/RLegMiddle4
+        weight: 1
+      - path: Spider/Body/Spine1/Spine2/Spine3/RLegBase4/RLegUpper4/RLegMiddle4/RLegLower4
+        weight: 1
+      - path: trnt_body
+        weight: 1
+      - path: trnt_body/trnt_eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
     isReadable: 1
   meshes:
     lODScreenPercentages: []
