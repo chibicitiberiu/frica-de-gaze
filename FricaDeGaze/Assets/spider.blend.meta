@@ -51,6 +51,7 @@ ModelImporter:
     100090: Spine1
     100092: Spine2
     100094: Spine3
+    100096: Spider
     400000: //RootNode
     400002: trnt_body
     400004: trnt_eyes
@@ -99,6 +100,7 @@ ModelImporter:
     400090: Spine1
     400092: Spine2
     400094: Spine3
+    400096: Spider
     2300000: trnt_body
     2300002: trnt_eyes
     3300000: trnt_body
