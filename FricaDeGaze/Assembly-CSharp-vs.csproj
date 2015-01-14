@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AddSpider.cs" />
      <Compile Include="Assets\MiscaPaianjen.cs" />
      <Compile Include="Assets\RandomSpider.cs" />
      <Compile Include="Assets\misca2.cs" />
