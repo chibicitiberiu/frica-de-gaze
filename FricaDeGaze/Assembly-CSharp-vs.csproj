@@ -39,24 +39,23 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>E:/SDKs/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>E:/SDKs/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\AddSpider.cs" />
-     <Compile Include="Assets\MiscaPaianjen.cs" />
-     <Compile Include="Assets\RandomSpider.cs" />
-     <Compile Include="Assets\misca2.cs" />
-     <Compile Include="Assets\misca3.cs" />
+     <Compile Include="Assets\Scripts\AddSpider.cs" />
+     <Compile Include="Assets\Scripts\BallCollisionWithSpider.cs" />
+     <Compile Include="Assets\Scripts\BallShoot.cs" />
+     <Compile Include="Assets\Scripts\SpiderMove.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/ligia_000/Documents/PCWorkspace/frica-de-gaze/FricaDeGaze/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>E:/Facultate/VR/Lab4_FricaDeGaze/FricaDeGaze/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
+ <HintPath>E:/SDKs/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
